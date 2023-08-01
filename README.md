@@ -6,7 +6,7 @@ Trie - DATA STRUCTURE is one of the frequent use dsa and its algorthim is not ea
 
 Tech stack - html,css,javascript
 
-# Resoruces
+# Resources
 * Trie algorthim understanding
 * search engine
 * geeksforgeeks
